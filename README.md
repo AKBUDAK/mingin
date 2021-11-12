@@ -1,2 +1,2 @@
-# mingin
+# mining
 hazır build xmrig
