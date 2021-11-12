@@ -1,0 +1,2 @@
+# mingin
+hazır build xmrig
